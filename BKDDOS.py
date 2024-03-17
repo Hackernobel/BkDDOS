@@ -115,7 +115,7 @@ def get_parameters():
 
 # reading headers
 global data
-headers = open("headers.txt", "r")
+headers = open("BKDDOS.txt", "r")
 data = headers.read()
 headers.close()
 task queue are q,w
